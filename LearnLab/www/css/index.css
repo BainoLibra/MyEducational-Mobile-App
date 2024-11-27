@@ -37,6 +37,23 @@ body {
     width:100%;
 }
 
+.box-1{
+    display: flex;
+    flex-direction: row;
+    background: #8dddf5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 2rem;
+}
+.box-2{
+    display: flex;
+    flex-direction: row;
+    background: #8df5c5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 2rem;
+}
+
 /* Portrait layout (default) */
 .app {
     background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
